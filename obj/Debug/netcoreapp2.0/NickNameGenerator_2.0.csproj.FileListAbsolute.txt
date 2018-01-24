@@ -1,0 +1,10 @@
+C:\CIDM3312\NickNameGenerator_2.0\bin\Debug\netcoreapp2.0\NickNameGenerator_2.0.deps.json
+C:\CIDM3312\NickNameGenerator_2.0\bin\Debug\netcoreapp2.0\NickNameGenerator_2.0.runtimeconfig.json
+C:\CIDM3312\NickNameGenerator_2.0\bin\Debug\netcoreapp2.0\NickNameGenerator_2.0.runtimeconfig.dev.json
+C:\CIDM3312\NickNameGenerator_2.0\bin\Debug\netcoreapp2.0\NickNameGenerator_2.0.dll
+C:\CIDM3312\NickNameGenerator_2.0\bin\Debug\netcoreapp2.0\NickNameGenerator_2.0.pdb
+C:\CIDM3312\NickNameGenerator_2.0\obj\Debug\netcoreapp2.0\NickNameGenerator_2.0.csproj.CoreCompileInputs.cache
+C:\CIDM3312\NickNameGenerator_2.0\obj\Debug\netcoreapp2.0\NickNameGenerator_2.0.AssemblyInfoInputs.cache
+C:\CIDM3312\NickNameGenerator_2.0\obj\Debug\netcoreapp2.0\NickNameGenerator_2.0.AssemblyInfo.cs
+C:\CIDM3312\NickNameGenerator_2.0\obj\Debug\netcoreapp2.0\NickNameGenerator_2.0.dll
+C:\CIDM3312\NickNameGenerator_2.0\obj\Debug\netcoreapp2.0\NickNameGenerator_2.0.pdb
